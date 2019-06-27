@@ -1,3 +1,3 @@
 # hello-world
-My first attempt at coding
-My name is Marisa. My fiance's name is Ricky. My cat's name is Princess Butters.
+Here is my first attempt at coding!
+A little bit about myself. I am from MA, love all the sports, and eager to see the world.
